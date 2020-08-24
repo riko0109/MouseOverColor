@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\MouseOverColor\MouseOverColor\bin\Release\MouseOverColor.exe.config
+C:\Users\Administrator\source\repos\MouseOverColor\MouseOverColor\bin\Release\MouseOverColor.exe
+C:\Users\Administrator\source\repos\MouseOverColor\MouseOverColor\bin\Release\MouseOverColor.pdb
+C:\Users\Administrator\source\repos\MouseOverColor\MouseOverColor\obj\Release\MainWindow.g.cs
+C:\Users\Administrator\source\repos\MouseOverColor\MouseOverColor\obj\Release\App.g.cs
+C:\Users\Administrator\source\repos\MouseOverColor\MouseOverColor\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\source\repos\MouseOverColor\MouseOverColor\obj\Release\MouseOverColor_MarkupCompile.cache
+C:\Users\Administrator\source\repos\MouseOverColor\MouseOverColor\obj\Release\MouseOverColor_MarkupCompile.lref
+C:\Users\Administrator\source\repos\MouseOverColor\MouseOverColor\obj\Release\MainWindow.baml
+C:\Users\Administrator\source\repos\MouseOverColor\MouseOverColor\obj\Release\MouseOverColor.g.resources
+C:\Users\Administrator\source\repos\MouseOverColor\MouseOverColor\obj\Release\MouseOverColor.NotifyIconWrapper.resources
+C:\Users\Administrator\source\repos\MouseOverColor\MouseOverColor\obj\Release\MouseOverColor.Properties.Resources.resources
+C:\Users\Administrator\source\repos\MouseOverColor\MouseOverColor\obj\Release\MouseOverColor.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\MouseOverColor\MouseOverColor\obj\Release\MouseOverColor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MouseOverColor\MouseOverColor\obj\Release\MouseOverColor.exe
+C:\Users\Administrator\source\repos\MouseOverColor\MouseOverColor\obj\Release\MouseOverColor.pdb
